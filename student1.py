@@ -10,6 +10,6 @@ else:
     name="gouri"
     rollno="004"
     print("No input given-using default values:")
-print("Script Name:", script_name)
-print("Student Name:", name)
-print("Roll Number:", rollno)
+print("Script Name:",script_name)
+print("Student Name:",name)
+print("Roll Number:",rollno)
